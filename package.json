@@ -38,7 +38,8 @@
     "markdown-react-js": "^0.3.0",
     "react": "^15.2.1",
     "react-dom": "^15.2.1",
-    "react-markdown": "^2.4.2"
+    "react-markdown": "^2.4.2",
+    "react-textarea-autosize": "^4.0.4"
   },
   "scripts": {
     "start": "node ./scripts/start.js",
